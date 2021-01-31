@@ -1,1 +1,3 @@
-document.write('Hello World!');
+setTimeout(() => {
+    alert('I\'m so Awesome')
+}, 2000) 
